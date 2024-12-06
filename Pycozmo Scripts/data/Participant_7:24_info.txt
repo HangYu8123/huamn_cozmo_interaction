@@ -1,0 +1,4 @@
+Participant_7:24
+1726105667.553397
+Animate Icons
+MAZE NAME:  AStatus: Robot failed (health = 0).
